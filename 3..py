@@ -26,7 +26,7 @@ def divide(first_number, second_number):
     result = first_number / second_number
     print(f"Result: {result}")
 
-#code to execute based on user input
+#code to execute operation based on input
 if operation == "add":
     add(first_number, second_number)
 elif operation == "subtract":
